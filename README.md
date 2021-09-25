@@ -78,4 +78,4 @@ $ roslaunch Project2 main.launch
 ---
 - Image Processing의 다양한 Noise 해결 방법
 - hough transform을 사용한 lane detection
-- 상황에 맞게 PID와 MovingAverageFilter를 조절해서 부드러운 조향각 제어
+- 상황에 맞게 PID와 MovingAverageFilter를 조절해서 부드러운 조향각 제어 
